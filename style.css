@@ -16,6 +16,9 @@
 .background {
 	width: 100%;
 	display: flex;
+	display: -webkit-box;
+  	display: -webkit-flex;
+  	display: -ms-flexbox;
 	background: url("images/banner.jpg") no-repeat center;
 	height: 100vh;
 	color: #fff;
@@ -31,6 +34,9 @@
 	position: sticky;
 	background-color: black;
 	display: flex;
+	display: -webkit-box;
+  	display: -webkit-flex;
+  	display: -ms-flexbox;
 	justify-content: space-evenly;
 	align-items: center;
 	font-family: "Ubuntu", sans-serif;
@@ -65,6 +71,9 @@ span {
 
 .background .myName {
 	display: flex;
+		display: -webkit-box;
+  	display: -webkit-flex;
+  	display: -ms-flexbox;
 	flex-direction: column;
 	position: relative;
 	top: 35%;
@@ -142,6 +151,9 @@ span {
 .section_about .title_about {
 	text-align: center;
 	display: flex;
+		display: -webkit-box;
+  	display: -webkit-flex;
+  	display: -ms-flexbox;
 	flex-direction: column;
 	gap: 3px;
 	padding: 30px 0;
@@ -165,6 +177,9 @@ span {
 
 .section_about .wrp_about {
 	display: flex;
+		display: -webkit-box;
+  	display: -webkit-flex;
+  	display: -ms-flexbox;
 	align-items: center;
 	padding: 0 80px;
 	gap: 60px;
@@ -179,6 +194,9 @@ span {
 
 .section_about .wrp_about .content_about {
 	display: flex;
+		display: -webkit-box;
+  	display: -webkit-flex;
+  	display: -ms-flexbox;
 	flex-direction: column;
 	justify-content: space-around;
 	gap: 15px;
@@ -262,6 +280,9 @@ span {
 
 .services .serv-content {
 	display: flex;
+		display: -webkit-box;
+  	display: -webkit-flex;
+  	display: -ms-flexbox;
 	gap: 20px;
 	flex-wrap: wrap;
 	padding: 30px 0;
@@ -378,6 +399,9 @@ span {
 
 .skills .skills-content .column-right .bars .info {
 	display: flex;
+		display: -webkit-box;
+  	display: -webkit-flex;
+  	display: -ms-flexbox;
 	margin-bottom: 5px;
 	align-items: center;
 	justify-content: space-between;
@@ -543,10 +567,16 @@ span {
 	transition: all 0.3s ease;
 	flex-direction: column;
 	display: flex;
+		display: -webkit-box;
+  	display: -webkit-flex;
+  	display: -ms-flexbox;
 }
 
 .teams .carousel {
 	display: flex;
+		display: -webkit-box;
+  	display: -webkit-flex;
+  	display: -ms-flexbox;
 	gap: 20px;
 }
 
@@ -556,6 +586,9 @@ span {
 
 .teams .carousel .card .box {
 	display: flex;
+		display: -webkit-box;
+  	display: -webkit-flex;
+  	display: -ms-flexbox;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
@@ -609,6 +642,9 @@ span {
 
 .contact .contact-content {
 	display: flex;
+		display: -webkit-box;
+  	display: -webkit-flex;
+  	display: -ms-flexbox;
 	gap: 50px;
 }
 
@@ -632,6 +668,9 @@ span {
 
 .contact .contact-content .row {
 	display: flex;
+		display: -webkit-box;
+  	display: -webkit-flex;
+  	display: -ms-flexbox;
 	height: 65px;
 	align-items: center;
 }
@@ -698,6 +737,9 @@ span {
 
 .contact .right form .button-area {
 	display: flex;
+		display: -webkit-box;
+  	display: -webkit-flex;
+  	display: -ms-flexbox;
 	align-items: center;
 }
 
