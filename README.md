@@ -1,2 +1,2 @@
-# Portolio
+# Portfolio
 https://cristian-irimia-landing-page1.netlify.app/
